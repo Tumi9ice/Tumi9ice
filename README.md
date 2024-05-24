@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front-end (react)
 - 💞️ I’m looking to collaborate on front-end development
-- 📫 How to reach me on Github, Whatsapp (https://wa.me/c/2348163252081)
+- 📫 How to reach me on Github, Whatsapp (https://wa.me/2348163252081)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Fun to work with
 
